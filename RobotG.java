@@ -122,7 +122,7 @@ abstract class RobotG {
     /**
      * La méthode getNextYPosition calcule la prochaine position en ordonnée (y) en fonction de la direction du robot.
      *
-     * @param dep Le nombre de pas pour le déplacement.
+     * @param dep Le nombre de pas pour le déplacement...
      * @return La prochaine position en ordonnée (y) après le déplacement.
      */
     public int getNextYPosition(int dep) {
